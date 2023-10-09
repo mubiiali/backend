@@ -1,0 +1,10 @@
+def get_word(sentence,n):
+    if n>0:
+        words=this is a lesson about list 
+        if n<=len(words):
+            return()
+    return("")
+print(get_word("this is a lesson about list", 4))
+print(get_word("this is a lesson about list", -4 .split("")))
+print(get_word("now we are cooking",1))
+print(get_word("now we are cooking",5))
